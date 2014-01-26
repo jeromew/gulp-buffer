@@ -1,12 +1,13 @@
 {
   "name": "gulp-buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Make sure all gulp file contents are available as buffer",
   "repository": "jeromew/gulp-buffer",
   "licence": "MIT",
   "author": "Jérôme Wagner",
   "keywords": [
-    "gulp"
+    "gulp",
+    "gulpplugin"
   ],
   "dependencies": {
     "through2": "~0.4.0"
